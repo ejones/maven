@@ -11,7 +11,7 @@ Repository params:
 Avaliable artifacts:
 
 *	**[Google Closure Stylesheets](http://code.google.com/p/closure-stylesheets/)**   
-	Google Closure Stylesheets releases. An unoffical repo until http://code.google.com/p/closure-templates/issues/detail?id=1 is closed.
+	Google Closure Stylesheets releases. An unoffical repo until http://code.google.com/p/closure-stylesheets/issues/detail?id=1 is closed.
 	
 	License: [Apache License v2](http://www.apache.org/licenses/LICENSE-2.0)
 
